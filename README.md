@@ -1,5 +1,3 @@
-# ST558_Project2
-
 # NBA Play-by-Play Data Exploration & Interactive Analysis App
 
 ## Application Overview & Objective
